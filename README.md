@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
 # 💫 About Me:
 I'm a passionate AI & Data Science enthusiast on a mission to become a skilled Generative. <br>AI Developer — building solutions that are intelligent, purposeful, and human-centered.<br><br>I love exploring how LLMs and modern web technologies can come together to solve <br>real-world problems.<br><br>When I'm not building web apps or chasing model outputs, you'll find me on a 64-square <br>battlefield, trying to outsmart my opponent in chess.<br><br>I believe great software is part logic, part creativity, and just like in chess, timing matters.<br>This journey is just getting started, and I'm all in.
 
