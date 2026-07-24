@@ -1,0 +1,2 @@
+The custom README copy and ai-chess-banner.svg in this package were created for Krushang1818.
+Third-party badges and generated cards are requested from their respective public services and remain subject to those projects' licenses and availability.
