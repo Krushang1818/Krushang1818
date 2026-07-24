@@ -54,15 +54,6 @@ class KrushangDesai:
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </div>
 
-## FEATURED COLLABORATION
-
-<div align="center">
-  <a href="https://github.com/Krushang1818/Crease">
-    <img width="58%" src="https://github-readme-stats.vercel.app/api/pin/?username=Krushang1818&repo=Crease&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=E0E0E0&border_radius=10" alt="Crease repository" />
-  </a>
-  <p><sub>React Native + Expo + Firebase platform for cricket clubs, match management, and real-time scoring.</sub></p>
-</div>
-
 ## DEVELOPER TELEMETRY
 
 <div align="center">
