@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 SYSTEM PROFILE
+## SYSTEM PROFILE
 
 ```python
 class KrushangDesai:
@@ -43,7 +43,7 @@ class KrushangDesai:
 
 ---
 
-## 🛠️ TECHNOLOGY MATRIX
+## TECHNOLOGY MATRIX
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,tensorflow,ts,react,firebase,git,github,githubactions,anaconda,netlify,vscode&theme=dark&perline=7" alt="Core technologies" />
@@ -60,7 +60,7 @@ class KrushangDesai:
 
 ---
 
-## 📊 DEVELOPER TELEMETRY
+## DEVELOPER TELEMETRY
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=Krushang1818&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE" alt="GitHub streak" />
@@ -72,7 +72,7 @@ class KrushangDesai:
 
 ---
 
-## 🐍 CONTRIBUTION ENGINE
+## CONTRIBUTION ENGINE
 
 <div align="center">
   <picture>
@@ -85,8 +85,8 @@ class KrushangDesai:
 ---
 
 <div align="center">
-  <h3>✨ Build with purpose. Learn relentlessly. Play the long game. ✨</h3>
-  <code>🤖 AI × 📊 DATA × 🌐 WEB × ♟️ CHESS</code>
+  <h3>Build with purpose. Learn relentlessly. Play the long game.</h3>
+  <code>AI x DATA x WEB x CHESS</code>
 </div>
 
 <img width="100%" src="./assets/footer-wave.svg" alt="Animated neon footer" />
