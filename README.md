@@ -1,3 +1,19 @@
+<style>
+  :root {
+    --primary-color: #22D3EE;
+    --secondary-color: #8B5CF6;
+    --accent-color: #EC4899;
+    --bg-dark: #0F172A;
+    --bg-darker: #020617;
+  }
+  
+  body {
+    background: linear-gradient(135deg, #0F172A 0%, #1a1f3a 50%, #2d1b4e 100%);
+    background-attachment: fixed;
+    color: #E0E0E0;
+  }
+</style>
+
 <div align="center">
   <img src="./assets/ai-chess-banner.svg" width="100%" alt="Animated AI and chess banner for Krushang Desai" />
 </div>
@@ -18,7 +34,9 @@
   <img src="https://img.shields.io/badge/FOCUS-GENERATIVE_AI-8B5CF6?style=for-the-badge&labelColor=0F172A&logo=openai&logoColor=white" alt="Generative AI focus" />
 </div>
 
-## SYSTEM PROFILE
+---
+
+## 🧠 SYSTEM PROFILE
 
 ```python
 class KrushangDesai:
@@ -39,7 +57,9 @@ class KrushangDesai:
 
 > I enjoy connecting LLMs, data, and modern web technologies to solve real problems. Great software is part logic, part creativity - and, just like chess, timing matters.
 
-## TECHNOLOGY MATRIX
+---
+
+## 🛠️ TECHNOLOGY MATRIX
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,tensorflow,ts,react,firebase,git,github,githubactions,anaconda,netlify,vscode&theme=dark&perline=7" alt="Core technologies" />
@@ -54,7 +74,9 @@ class KrushangDesai:
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </div>
 
-## DEVELOPER TELEMETRY
+---
+
+## 📊 DEVELOPER TELEMETRY
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=Krushang1818&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE" alt="GitHub streak" />
@@ -64,7 +86,9 @@ class KrushangDesai:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krushang1818&theme=tokyo-night&hide_border=true&area=true&custom_title=Krushang%27s%20Contribution%20Graph" alt="Contribution graph" />
 </div>
 
-## CONTRIBUTION ENGINE
+---
+
+## 🐍 CONTRIBUTION ENGINE
 
 <div align="center">
   <picture>
@@ -74,9 +98,11 @@ class KrushangDesai:
   </picture>
 </div>
 
+---
+
 <div align="center">
-  <h3>Build with purpose. Learn relentlessly. Play the long game.</h3>
-  <code>AI x DATA x WEB x CHESS</code>
+  <h3>✨ Build with purpose. Learn relentlessly. Play the long game. ✨</h3>
+  <code>🤖 AI × 📊 DATA × 🌐 WEB × ♟️ CHESS</code>
 </div>
 
 <img width="100%" src="./assets/footer-wave.svg" alt="Animated neon footer" />
