@@ -1,19 +1,3 @@
-<style>
-  :root {
-    --primary-color: #22D3EE;
-    --secondary-color: #8B5CF6;
-    --accent-color: #EC4899;
-    --bg-dark: #0F172A;
-    --bg-darker: #020617;
-  }
-  
-  body {
-    background: linear-gradient(135deg, #0F172A 0%, #1a1f3a 50%, #2d1b4e 100%);
-    background-attachment: fixed;
-    color: #E0E0E0;
-  }
-</style>
-
 <div align="center">
   <img src="./assets/ai-chess-banner.svg" width="100%" alt="Animated AI and chess banner for Krushang Desai" />
 </div>
