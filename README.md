@@ -66,7 +66,6 @@ class KrushangDesai:
 ## DEVELOPER TELEMETRY
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krushang1818&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=E0E0E0&border_radius=10" alt="GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Krushang1818&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE" alt="GitHub streak" />
 </div>
 
