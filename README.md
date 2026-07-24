@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/badge/FOCUS-GENERATIVE_AI-8B5CF6?style=for-the-badge&labelColor=0F172A&logo=openai&logoColor=white" alt="Generative AI focus" />
 </div>
 
-<br />
-
 ## SYSTEM PROFILE
 
 ```python
@@ -47,8 +45,6 @@ class KrushangDesai:
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,tensorflow,ts,react,firebase,git,github,githubactions,anaconda,netlify,vscode&theme=dark&perline=7" alt="Core technologies" />
 </div>
 
-<br />
-
 <div align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -73,7 +69,6 @@ class KrushangDesai:
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krushang1818&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=E0E0E0&border_radius=10" alt="GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Krushang1818&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE" alt="GitHub streak" />
 </div>
-
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krushang1818&theme=tokyo-night&hide_border=true&area=true&custom_title=Krushang%27s%20Contribution%20Graph" alt="Contribution graph" />
